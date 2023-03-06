@@ -14,10 +14,11 @@ Prerequisites
   Results
 
 The following table shows the training and testing accuracy of each model:
-Model	Training Accuracy (%)	Testing Accuracy (%)
-Logistic Regression	96.69	96.64
-Decision Tree Classifier	100.00	99.86
-Random Forest Classifier	99.99	99.99
+
+Model	                            Training Accuracy (%)	            Testing Accuracy (%)
+Logistic Regression                     	96.69	                            96.64
+Decision Tree Classifier	                100.00	                            99.86
+Random Forest Classifier	                99.99	                            99.99
 Conclusion
 
 The results show that all three models perform well in detecting fraud in financial transactions. However, the Decision Tree Classifier and Random Forest Classifier models have higher accuracy than the Logistic Regression model But Random Classifier model was adopted. Further analysis can be done to determine the most suitable model for the dataset.
